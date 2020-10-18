@@ -1,8 +1,9 @@
 import React from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Navigation from "./components/Navigation";
-import Home from "./routes/Home";
 import ScrollToTop from "./components/ScrollToTop";
+import Home from "./routes/Home";
+import ContentMain from "./routes/ContentMain";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Navigation />
       <Switch>
         <Route path="/" exact component={Home} />
+        <Route path="/content" component={ContentMain} />
       </Switch>
     </BrowserRouter>
   );

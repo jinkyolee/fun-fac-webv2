@@ -50,6 +50,10 @@
   color: #282828;
 }
 
+.button--selected {
+  color: #daa35b;
+}
+
 /* Logo */
 .logo-container {
   display: flex;
@@ -63,4 +67,5 @@
 .logo {
   width: 100px;
   object-fit: contain;
+  pointer-events: none;
 }
