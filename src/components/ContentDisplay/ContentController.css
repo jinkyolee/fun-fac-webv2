@@ -1,0 +1,27 @@
+.controller {
+  width: 360px;
+  height: 250px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 2;
+}
+
+.controller > ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.control-item {
+  color: #282828;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.item--selected {
+  color: #daa35b;
+}
