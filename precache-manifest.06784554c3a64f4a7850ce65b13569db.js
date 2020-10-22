@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ef913767474f91efb2c41f22bff1ee3",
+    "revision": "2373343257169f5edbfe582b39b82e9b",
     "url": "/fun-fac-webv2/index.html"
   },
   {
-    "revision": "fce0f603d3039d72742f",
+    "revision": "d44b9f1031e40be8339b",
     "url": "/fun-fac-webv2/static/css/main.e1a1d136.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fun-fac-webv2/static/js/2.3b807966.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fce0f603d3039d72742f",
-    "url": "/fun-fac-webv2/static/js/main.5dec3038.chunk.js"
+    "revision": "d44b9f1031e40be8339b",
+    "url": "/fun-fac-webv2/static/js/main.61a675c0.chunk.js"
   },
   {
     "revision": "75bc55b55bb201cfd602",
