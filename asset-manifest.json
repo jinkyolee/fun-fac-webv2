@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/fun-fac-webv2/static/css/main.e1a1d136.chunk.css",
+    "main.js": "/fun-fac-webv2/static/js/main.5dec3038.chunk.js",
+    "main.js.map": "/fun-fac-webv2/static/js/main.5dec3038.chunk.js.map",
+    "runtime-main.js": "/fun-fac-webv2/static/js/runtime-main.13385395.js",
+    "runtime-main.js.map": "/fun-fac-webv2/static/js/runtime-main.13385395.js.map",
+    "static/js/2.3b807966.chunk.js": "/fun-fac-webv2/static/js/2.3b807966.chunk.js",
+    "static/js/2.3b807966.chunk.js.map": "/fun-fac-webv2/static/js/2.3b807966.chunk.js.map",
+    "index.html": "/fun-fac-webv2/index.html",
+    "precache-manifest.dae16dcb4a1b4753042e401b2eff82ce.js": "/fun-fac-webv2/precache-manifest.dae16dcb4a1b4753042e401b2eff82ce.js",
+    "service-worker.js": "/fun-fac-webv2/service-worker.js",
+    "static/css/main.e1a1d136.chunk.css.map": "/fun-fac-webv2/static/css/main.e1a1d136.chunk.css.map",
+    "static/js/2.3b807966.chunk.js.LICENSE.txt": "/fun-fac-webv2/static/js/2.3b807966.chunk.js.LICENSE.txt",
+    "static/media/content.jpg": "/fun-fac-webv2/static/media/content.0d42104d.jpg",
+    "static/media/contentImage.png": "/fun-fac-webv2/static/media/contentImage.8ff3991c.png",
+    "static/media/footer.jpg": "/fun-fac-webv2/static/media/footer.a053ac67.jpg",
+    "static/media/gameExplImg.png": "/fun-fac-webv2/static/media/gameExplImg.5667e50c.png",
+    "static/media/homeImage.png": "/fun-fac-webv2/static/media/homeImage.70a4a8d9.png",
+    "static/media/logo.png": "/fun-fac-webv2/static/media/logo.d88a4253.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13385395.js",
+    "static/js/2.3b807966.chunk.js",
+    "static/css/main.e1a1d136.chunk.css",
+    "static/js/main.5dec3038.chunk.js"
+  ]
+}
